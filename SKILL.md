@@ -15,7 +15,7 @@ description: >-
 ## 先判断任务
 
 - 构思／追问／创新设计：读 [创新工作台](references/innovation.md)。从已有材料开始，每轮问一个最能改变研究决策的问题；用户要直接方案时直接给方案。
-- 选会／两类发表比较：读 [会议画像](references/venues.md)，其中包括 MISQ 与计算机会议的贡献转换。
+- 选会／两类会议比较：读 [会议画像](references/venues.md)，比较 NLP 与机器学习／综合 AI 的贡献对象及投稿契合度。
 - 论文诊断／实验设计：读 [证据审查](references/evidence-review.md)，并读取对应会议画像。
 - 模拟审稿／AC 裁决／回复审稿：读 [审稿与回复](references/review-rebuttal.md) 和 [主席经验卡](references/chair-lessons.md)。
 - 热点／选题机会：读 [问题地图](references/research-map.md)，再检索目标子领域最新一手来源；该地图不是热度排名。

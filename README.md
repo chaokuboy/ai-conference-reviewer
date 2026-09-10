@@ -2,7 +2,7 @@
 
 面向 **ACL、EMNLP、AAAI、ICML、ICLR、NeurIPS** 的中文研究辅助 skill：从想法梳理、创新设计和证据诊断，到会议匹配、模拟审稿与 rebuttal。
 
-采用与 [MISQ 审稿助手](https://github.com/chaokuboy/misq-reviewer-skill) 相近的研究推进方式，独立维护 AI/NLP 会议知识。以官方指南、主席复盘与经验凝练为主，无需 Zotero、论文全文库或额外 API key。
+独立维护 AI/NLP 六个会议的研究与投稿知识。以官方指南、主席复盘与经验凝练为主，无需 Zotero、论文全文库或额外 API key。
 
 ## 快速安装
 
@@ -71,7 +71,7 @@ git -C "$HOME/.agents/skills/ai-conference-reviewer" pull --ff-only
 | 文件 | 用途 |
 |---|---|
 | [SKILL.md](SKILL.md) | 入口、工作流路由与判断纪律 |
-| [会议画像](references/venues.md) | 六会定位、两类研究与 MISQ 贡献转换 |
+| [会议画像](references/venues.md) | 六会定位、NLP 与机器学习／综合 AI 的选会比较 |
 | [创新工作台](references/innovation.md) | 最近邻、创新路径、资源约束与反证实验 |
 | [证据审查](references/evidence-review.md) | 主张—证据匹配及 LLM/agent 特有风险 |
 | [主席经验卡](references/chair-lessons.md) | 官方复盘、审稿要求与经验转化 |
