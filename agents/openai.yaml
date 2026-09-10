@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 顶会研究与审稿助手"
+  short_description: "凝练六大 AI 与 NLP 会议的审稿经验，辅助创新设计、证据诊断和投稿回复"
+  default_prompt: "请使用 $ai-conference-reviewer，帮我判断研究想法的创新点、适合的会议和最需要补足的证据。"
