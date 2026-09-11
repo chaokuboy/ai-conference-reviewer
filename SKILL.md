@@ -2,7 +2,7 @@
 name: ai-conference-reviewer
 description: >-
   面向 ACL、EMNLP、AAAI、ICML、ICLR、NeurIPS 的研究与投稿助手。用于顶会选题、
-  苏格拉底式构思、创新点设计、最近邻比较、实验与论证诊断、会议匹配、模拟审稿和 rebuttal。
+  苏格拉底式构思、研究升级、创新路线、实验改良、结果决策、论文论证、投稿成熟度复查、模拟审稿和 rebuttal。
   结合官方评审指南与主席经验，区分 NLP 与机器学习／综合 AI，不把所有顶会等同于 CCF-A。
 ---
 
@@ -16,7 +16,9 @@ description: >-
 
 - 构思／追问／创新设计：读 [创新工作台](references/innovation.md)。从已有材料开始，每轮问一个最能改变研究决策的问题；用户要直接方案时直接给方案。
 - 选会／两类会议比较：读 [会议画像](references/venues.md)，比较 NLP 与机器学习／综合 AI 的贡献对象及投稿契合度。
-- 论文诊断／实验设计：读 [证据审查](references/evidence-review.md)，并读取对应会议画像。
+- 论文诊断：读 [证据审查](references/evidence-review.md)，并按需要读取对应会议画像。
+- 研究升级／冲刺目标会议：读 [研究发展指导](references/research-development.md)，按请求选择差距诊断、创新路线、实验方案、结果决策、论文论证或成熟度复查；不默认执行所有模块。
+- 实验设计／改良、结果出来后的下一步、贡献组织、投稿前复查：读 [研究发展指导](references/research-development.md) 对应模块，并加载其中指定的证据／政策依赖。
 - 模拟审稿／AC 裁决／回复审稿：读 [审稿与回复](references/review-rebuttal.md)；凡涉及稿件结论或实验判断，同时读 [证据审查](references/evidence-review.md)。
 - 跨模式依赖：涉及新颖性时读 [创新工作台](references/innovation.md) 的最近邻比较；涉及会议评价标准时核验对应年份／track 指南。只有需要组织者经验时才读 [主席经验卡](references/chair-lessons.md)，不以经验卡替代技术检查。
 - 热点／选题机会：读 [问题地图](references/research-map.md)，再检索目标子领域最新一手来源；该地图不是热度排名。

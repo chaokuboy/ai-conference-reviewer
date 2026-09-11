@@ -62,6 +62,14 @@ git -C "$HOME/.agents/skills/ai-conference-reviewer" pull --ff-only
 
 > 使用 $ai-conference-reviewer。根据稿件和真实审稿意见，检查争议是否成立，模拟 AC 对分歧的判断，并起草有证据定位的 rebuttal。没有完成的实验不要写成已经完成。
 
+**研究升级与实验改良**
+
+> 使用 $ai-conference-reviewer。根据我的想法、最近邻、已有结果和预算，诊断最重要的研究差距，提出两条候选创新路线。为首选路线设计最小判别验证、必要基线、数据划分和决策条件；根据不同结果说明继续、缩小主张或停止的选择，不承诺录用。
+
+**论文论证与成熟度复查**
+
+> 使用 $ai-conference-reviewer。把现有结果整理成贡献—证据映射，检查摘要是否超出结果范围，并区分投稿前必须解决、表达可修复、可选拓展和待确认事项。
+
 **投稿规则**
 
 > 使用 $ai-conference-reviewer。核验我指定届次和 track 的官方投稿要求，明确正文页数、附件、匿名、commitment 和回复规则。
@@ -72,6 +80,7 @@ git -C "$HOME/.agents/skills/ai-conference-reviewer" pull --ff-only
 |---|---|
 | [SKILL.md](SKILL.md) | 入口、工作流路由与判断纪律 |
 | [会议画像](references/venues.md) | 六会定位、NLP 与机器学习／综合 AI 的选会比较 |
+| [研究发展指导](references/research-development.md) | 差距诊断、创新升级、实验改良、结果决策、论文论证和成熟度复查 |
 | [创新工作台](references/innovation.md) | 最近邻、创新路径、资源约束与判别验证 |
 | [证据审查](references/evidence-review.md) | 主张—证据匹配及 LLM/agent 特有风险 |
 | [主席经验卡](references/chair-lessons.md) | 官方复盘、审稿要求与经验转化 |
