@@ -52,7 +52,7 @@ git -C "$HOME/.agents/skills/ai-conference-reviewer" pull --ff-only
 
 **设计创新**
 
-> 使用 $ai-conference-reviewer。根据我提供的三篇最近邻论文，提出两条不同的创新路线，说明最小反证实验、计算预算和停止条件。
+> 使用 $ai-conference-reviewer。根据我提供的三篇最近邻论文，提出两条不同的创新路线，说明最小判别验证、计算预算和停止条件。
 
 **论文诊断与选会**
 
@@ -72,7 +72,7 @@ git -C "$HOME/.agents/skills/ai-conference-reviewer" pull --ff-only
 |---|---|
 | [SKILL.md](SKILL.md) | 入口、工作流路由与判断纪律 |
 | [会议画像](references/venues.md) | 六会定位、NLP 与机器学习／综合 AI 的选会比较 |
-| [创新工作台](references/innovation.md) | 最近邻、创新路径、资源约束与反证实验 |
+| [创新工作台](references/innovation.md) | 最近邻、创新路径、资源约束与判别验证 |
 | [证据审查](references/evidence-review.md) | 主张—证据匹配及 LLM/agent 特有风险 |
 | [主席经验卡](references/chair-lessons.md) | 官方复盘、审稿要求与经验转化 |
 | [审稿与回复](references/review-rebuttal.md) | 模拟 reviewer、AC、rebuttal 与修改计划 |
@@ -84,7 +84,7 @@ git -C "$HOME/.agents/skills/ai-conference-reviewer" pull --ff-only
 
 知识快照：**2026-09-10**，主要覆盖 2026 届指南与部分 2025 年主席复盘。实际投稿须重新核验目标届次及 track。
 
-- 分开标注正式规则、组织者解读、公开审稿个案、综合建议和待验证假说。
+- 分开记录来源身份与陈述性质：官方资料不自动等于硬性要求；评价建议、历史事实和假说各自标明。
 - 本版未收集真实公开审稿个案数据集；示例评论是模拟意见。
 - 热点地图为定性研究方向，不是六会论文普查或录用偏好排名。
 - 六个会议不全等同于 CCF-A。EMNLP 官方历史条目列 B；最新总目录核验限制见来源账本，考核以适用目录和单位文件为准。
